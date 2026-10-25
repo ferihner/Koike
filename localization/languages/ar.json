@@ -125,7 +125,7 @@
     "phishingErrorVisitAnyway": "متابعة على اية حال",
     "phishingErrorLeave": "مغادرة الموقع",
     /* multiple instances alert */
-    "multipleInstancesErrorMessage": "حدث خطأ. الرجاء إغلاق أي نوافد مفتوحة أخرى وإعادة تشغيل Min",
+    "multipleInstancesErrorMessage": "حدث خطأ. الرجاء إغلاق أي نوافد مفتوحة أخرى وإعادة تشغيل Koike",
     /* pages/sessionRestoreError/index.html */
     "sessionRestoreErrorTitle": "حدث خطأ ما",
     "sessionRestoreErrorExplanation": "لم نستطيع اعادة فتح التبويبات المحفوظة بشكل صحيح",
@@ -284,7 +284,7 @@
     "passwordManagerSetupDragBox": "جر الأداة هنا", 
     "passwordManagerSetupInstalling": "يتم التثبيت", 
     "passwordManagerBitwardenSignIn": "لتوصيل حساب Bitwarden الخاص بك إذهب إلى vault.bitwarden.com/#/settings/account، ثم اذهب الى اسفل الصفحة، واختر \"View API Key\" بعدها ألصقه في الحقل بالأسفل.", 
-    "passwordManagerSetupSignIn": "قم بتسجيل الدخول إلى مدير كلمات المرور الخاص بك لإستخدم الملء التلقائي، معلومات الدخول لن يتم تخزينها في اي مكان داخل Min", 
+    "passwordManagerSetupSignIn": "قم بتسجيل الدخول إلى مدير كلمات المرور الخاص بك لإستخدم الملء التلقائي، معلومات الدخول لن يتم تخزينها في اي مكان داخل Koike", 
     "disableAutofill": "إلغاء تفعيل الملء التلقائي", 
     "passwordManagerSetupUnlockError": "فشل في فتح مخزن كلمات المرور: ", 
     "passwordManagerSetupRetry": "تأكد من إستخدامك الملف الصحيح وإدخال كلمة مرور صحيحة. يمكنك المحاولة عن طريق جر الأداة هنا مجدداً.", 

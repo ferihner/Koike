@@ -26,7 +26,7 @@ crashReporter.start({
 })
 
 if (process.argv.some(arg => arg === '-v' || arg === '--version')) {
-  console.log('Min: ' + app.getVersion())
+  console.log('Koike: ' + app.getVersion())
   console.log('Chromium: ' + process.versions.chrome)
   process.exit()
 }
@@ -199,7 +199,7 @@ function createWindowWithBounds (bounds, customArgs) {
     minHeight: 350,
     titleBarStyle: settings.get('useSeparateTitlebar') ? 'default' : 'hidden',
     trafficLightPosition: { x: 12, y: 10 },
-    icon: __dirname + '/icons/icon256.png',
+    icon: process.platform === 'win32' ? path.join(__dirname, 'icons/icon256.ico') : path.join(__dirname, 'icons/icon256.png'),
     frame: settings.get('useSeparateTitlebar'),
     alwaysOnTop: settings.get('windowAlwaysOnTop'),
     backgroundColor: '#fff', // the value of this is ignored, but setting it seems to work around https://github.com/electron/electron/issues/10559

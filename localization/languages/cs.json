@@ -125,7 +125,7 @@
     "phishingErrorVisitAnyway": "Přesto stránky navštívit",
     "phishingErrorLeave": "Opustit tyto stránky",
     /* multiple instances alert */
-    "multipleInstancesErrorMessage": "Vyskytla se chyba. Prosím zavřete všechny ostatní spuštěné instance a restartujte prohlížeč Min.",
+    "multipleInstancesErrorMessage": "Vyskytla se chyba. Prosím zavřete všechny ostatní spuštěné instance a restartujte prohlížeč Koike.",
     /* pages/sessionRestoreError/index.html */
     "sessionRestoreErrorTitle": "Vyskytla se chyba",
     "sessionRestoreErrorExplanation": "Vaše uložené karty nelze správně obnovit.",
@@ -265,7 +265,7 @@
     "downloadStateCompleted": "Dokončeno",
     "downloadStateFailed": "Selhalo",
     /* Update Notifications */
-    "updateNotificationTitle": "Je dostupná nová verze prohlížeče Min",
+    "updateNotificationTitle": "Je dostupná nová verze prohlížeče Koike",
     /* Autofill settings */
     "settingsPasswordAutoFillHeadline": "Automatické vkládání hesla",
     "settingsSelectPasswordManager": "Vyberte jeden z podporovaných správců hesel:",
@@ -284,7 +284,7 @@
     "passwordManagerSetupDragBox": "Přetáhněte nástroj sem",
     "passwordManagerSetupInstalling": "Probíhá instalace...",
     "passwordManagerBitwardenSignIn": "Pro připojení vašeho Bitwarden účtu navštivte vault.bitwarden.com/#/settings/account, srolujte dolů a zvolte \"Zobrazit API klíč\". Tyto hodnoty poté vložte do textových polí níže.",
-    "passwordManagerSetupSignIn": "Přihlaste se do vašeho správce hesel, abyste mohli začít používat automatické vkládání. Vaše přihlašovací údaje nebudou v prohlížeči Min nikde uchovány.",
+    "passwordManagerSetupSignIn": "Přihlaste se do vašeho správce hesel, abyste mohli začít používat automatické vkládání. Vaše přihlašovací údaje nebudou v prohlížeči Koike nikde uchovány.",
     "disableAutofill": "Vypnout automatické vkládání",
     "passwordManagerSetupUnlockError": "Selhalo odemčení úložiště hesel: ",
     "passwordManagerSetupRetry": "Ujistěte se, že používáte správný soubor a zadáváte heslo správně. Můžete postup opakovat přetažením nástroje sem.",

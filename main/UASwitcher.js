@@ -9,7 +9,7 @@ if (settings.get('customUserAgent')) {
   newUserAgent = settings.get('customUserAgent')
   hasCustomUserAgent = true
 } else {
-  newUserAgent = defaultUserAgent.replace(/Min\/\S+\s/, '').replace(/Electron\/\S+\s/, '').replace(process.versions.chrome, process.versions.chrome.split('.').map((v, idx) => (idx === 0) ? v : '0').join('.'))
+  newUserAgent = defaultUserAgent.replace(/Koike\/\S+\s/i, '').replace(/Min\/\S+\s/i, '').replace(/Electron\/\S+\s/, '').replace(process.versions.chrome, process.versions.chrome.split('.').map((v, idx) => (idx === 0) ? v : '0').join('.'))
 }
 app.userAgentFallback = newUserAgent
 

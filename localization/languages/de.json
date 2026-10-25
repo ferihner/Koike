@@ -107,16 +107,16 @@
     "crashErrorSubtitle": "Bei der Anzeige der Seite trat ein Problem auf.",
     "errorPagePrimaryAction": "Erneut versuchen",
     "serverNotFoundTitle": "Server nicht gefunden",
-    "serverNotFoundSubtitle": "Min konnte diese Webseite nicht finden.",
+    "serverNotFoundSubtitle": "Koike konnte diese Webseite nicht finden.",
     "archiveSearchAction": "Suche auf archive.org",
     "sslErrorTitle": "Diese Webseite ist nicht verfügbar",
-    "sslErrorMessage": "Min konnte keine sichere Verbindung mit dieser Webseite aufbauen.",
+    "sslErrorMessage": "Koike konnte keine sichere Verbindung mit dieser Webseite aufbauen.",
     "dnsErrorTitle": "Webseite nicht gefunden",
     "dnsErrorMessage": "Es trat ein DNS-Fehler auf.",
     "offlineErrorTitle": "Du bist offline",
     "offlineErrorMessage": "Wieder mit dem Internet verbinden und erneut versuchen.",
-    "genericConnectionFail": "Min konnte sich nicht mit dieser Webseite verbinden.",
-    "sslTimeErrorMessage": "Min konnte keine sichere Verbindung mit dieser Webseite aufbauen. Bitte stelle sicher, dass deine Computeruhr korrekt eingestellt ist.",
+    "genericConnectionFail": "Koike konnte sich nicht mit dieser Webseite verbinden.",
+    "sslTimeErrorMessage": "Koike konnte keine sichere Verbindung mit dieser Webseite aufbauen. Bitte stelle sicher, dass deine Computeruhr korrekt eingestellt ist.",
     "addressInvalidTitle": "Diese Adresse ist ungültig.",
     "genericError": "Es trat ein Fehler auf",
     /* pages/phishing/index.html */
@@ -125,7 +125,7 @@
     "phishingErrorVisitAnyway": "Seite trotzdem besuchen",
     "phishingErrorLeave": "Seite verlassen",
     /* multiple instances alert */
-    "multipleInstancesErrorMessage": "Ein Fehler ist aufgetreten. Bitte schließe alle anderen offenen Instanzen und starte Min neu.",
+    "multipleInstancesErrorMessage": "Ein Fehler ist aufgetreten. Bitte schließe alle anderen offenen Instanzen und starte Koike neu.",
     /* pages/sessionRestoreError/index.html */
     "sessionRestoreErrorTitle": "Es trat ein Fehler auf",
     "sessionRestoreErrorExplanation": "Die gespeicherten Tabs konnten nicht wiederhergestellt werden.",
@@ -175,7 +175,7 @@
     "settingsUsageStatisticsToggle": {
       "unsafeHTML": "Sende anonyme Nutzungsstatistiken (<a href=\"https://github.com/minbrowser/min/blob/master/docs/statistics.md\">Mehr Infos</a>)"
     },
-    "settingsStartupOptions": "Wenn Min startet:", 
+    "settingsStartupOptions": "Wenn Koike startet:", 
     "settingsStartupCreateTask": "Vorherige Tabs erneut öffnen", 
     "settingsStartupNewTaskandBackground": "Vorherige Tabs zu einer Hintergrundaufgabe verschieben",
     "settingsStartupNewTaskOnly": "Neue leere Aufgabe öffnen", 
@@ -265,7 +265,7 @@
     "downloadStateCompleted": "Abgeschlossen",
     "downloadStateFailed": "Fehlgeschlagen",
     /* Update Notifications */
-    "updateNotificationTitle": "Eine neue Version von Min ist verfügbar",
+    "updateNotificationTitle": "Eine neue Version von Koike ist verfügbar",
     /* Autofill settings */
     "settingsPasswordAutoFillHeadline": "Passwörter automatisch ausfüllen",
     "settingsSelectPasswordManager": "Wähle einen der unterstützten Passwortmanager:",
@@ -284,7 +284,7 @@
     "passwordManagerSetupDragBox": "Ziehe das Programm hierher",
     "passwordManagerSetupInstalling": "Installiere...",
     "passwordManagerBitwardenSignIn": "Um dein Bitwarden Konto zu verbinden, gehe zu vault.bitwarden.com/#/settings/account, scrolle bis zum Ende und wähle \"View API Key\". Dann kopiere die Werte in die derunterliegenden Felder.",
-    "passwordManagerSetupSignIn": "Melde dich in deinem Passwortmanager an, um die automatische Ausfüllfunktion zu nutzen. Deine Zugangsdaten werden nirgendwo in Min gespeichert.",
+    "passwordManagerSetupSignIn": "Melde dich in deinem Passwortmanager an, um die automatische Ausfüllfunktion zu nutzen. Deine Zugangsdaten werden nirgendwo in Koike gespeichert.",
     "disableAutofill": "Automatische Ausfüllfunktion deaktivieren",
     "passwordManagerSetupUnlockError": "Beim Entsperren des Passwortmanagers ist ein Fehler aufgetreten:",
     "passwordManagerSetupRetry": "Stelle sicher, dass die richtige Datei genutzt und das richtige Passwort eingegeben wurde. Ziehe das Programm wieder hierher, um es nochmal zu versuchen.",

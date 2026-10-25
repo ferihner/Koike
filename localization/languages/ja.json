@@ -125,7 +125,7 @@
     "phishingErrorVisitAnyway": "それでもこのサイトを訪問する",
     "phishingErrorLeave": "このサイトから離れる",
     /* multiple instances alert */
-    "multipleInstancesErrorMessage": "エラーが発生しました。 他の開いているインスタンスを閉じてMinを再起動してください。",
+    "multipleInstancesErrorMessage": "エラーが発生しました。 他の開いているインスタンスを閉じてKoikeを再起動してください。",
     /* pages/sessionRestoreError/index.html */
     "sessionRestoreErrorTitle": "エラーが発生しました",
     "sessionRestoreErrorExplanation": "保存したタブを正しく復元できませんでした。",
@@ -265,7 +265,7 @@
     "downloadStateCompleted": "完了しました",
     "downloadStateFailed": "フェイル",
     /* Update Notifications */
-    "updateNotificationTitle": "Minの新しいバージョンが利用可能です。",
+    "updateNotificationTitle": "Koikeの新しいバージョンが利用可能です。",
     /* Password settings */
     "settingsPasswordAutoFillHeadline": "パスワードの自動入力",
     "settingsSelectPasswordManager": "サポートされているパスワードマネージャのいずれかを選択します。",
@@ -284,7 +284,7 @@
     "passwordManagerSetupDragBox": "ここにツールをドラッグ",
     "passwordManagerSetupInstalling": "インストールしています...",
     "passwordManagerBitwardenSignIn": "Bitwardenアカウントに接続するには、vault.bitwarden.com/#/settings/accountにアクセスし、一番下までスクロールして、「APIキーを表示」を選択します。 次に、値を下のフィールドに貼り付けます。",
-    "passwordManagerSetupSignIn": "パスワードマネージャーにログインして、自動入力の使用を開始します。 資格情報はMin内のどこにも保存されません。",
+    "passwordManagerSetupSignIn": "パスワードマネージャーにログインして、自動入力の使用を開始します。 資格情報はKoike内のどこにも保存されません。",
     "disableAutofill": "自動入力を無効にする",
     "passwordManagerSetupUnlockError": "パスワードストアのロック解除に失敗しました： ",
     "passwordManagerSetupRetry": "正しいファイルを使用し、正しいパスワードを入力していることを確認してください。 ここにツールをもう一度ドラッグすると、再試行できます。",

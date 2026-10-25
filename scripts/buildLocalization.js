@@ -2,7 +2,14 @@
 
 const path = require('path')
 const fs = require('fs')
-const decomment = require('decomment')
+let decomment
+try {
+  decomment = require('decomment')
+} catch (e) {
+  decomment = function (str) {
+    return str.replace(/\/\*[\s\S]*?\*\/|([^\\:]|^)\/\/.*$/gm, '$1')
+  }
+}
 
 const outputDir = path.join(__dirname, '../dist')
 const outputFile = path.join(outputDir, 'localization.build.js')

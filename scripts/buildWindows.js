@@ -1,4 +1,5 @@
 const fs = require('fs')
+const path = require('path')
 const archiver = require('archiver')
 const builder = require('electron-builder')
 const Arch = builder.Arch
@@ -25,20 +26,24 @@ async function afterPackageBuilt (packagePath) {
   }
 
   /* create zip files */
-  var output = fs.createWriteStream('dist/app/' + 'Min-v' + version + '-windows' + archSuffix + '.zip')
+  var output = fs.createWriteStream('dist/app/' + 'Koike-v' + version + '-windows' + archSuffix + '.zip')
   var archive = archiver('zip', {
     zlib: { level: 9 }
   })
-  archive.directory(packagePath, 'Min-v' + version)
+  archive.directory(packagePath, 'Koike-v' + version)
   archive.pipe(output)
   await archive.finalize()
 
   /* create installer */
   const installer = require('electron-installer-windows')
 
+  const destDir = 'dist/app/Koike-installer' + archSuffix
   const options = {
     src: packagePath,
-    dest: 'dist/app/min-installer' + archSuffix,
+    dest: destDir,
+    name: 'Koike',
+    productName: 'Koike',
+    exe: 'Koike.exe',
     icon: 'icons/icon256.ico',
     animation: 'icons/windows-installer.gif',
     licenseUrl: 'https://github.com/minbrowser/min/blob/master/LICENSE.txt',
@@ -51,7 +56,13 @@ async function afterPackageBuilt (packagePath) {
 
   await installer(options)
     .then(function () {
-      fs.renameSync('./dist/app/min-installer' + archSuffix + '/min-' + version + '-setup.exe', './dist/app/min-' + version + archSuffix + '-setup.exe')
+      if (fs.existsSync(destDir)) {
+        const installerFiles = fs.readdirSync(destDir).filter(f => f.endsWith('.exe'))
+        installerFiles.forEach(file => {
+          fs.copyFileSync(path.join(destDir, file), './dist/app/Koike-installer' + archSuffix + '.exe')
+          fs.renameSync(path.join(destDir, file), './dist/app/Koike-' + version + archSuffix + '-setup.exe')
+        })
+      }
     })
     .catch(err => {
       console.error(err, err.stack)

@@ -107,16 +107,16 @@
     "crashErrorSubtitle": "Muammo shu sahifani ko'rsatayotganda sodir build.",
     "errorPagePrimaryAction": "Yana urinib ko'ring",
     "serverNotFoundTitle": "Server topilmadi",
-    "serverNotFoundSubtitle": "Min bu sahifani topa olmadi.",
+    "serverNotFoundSubtitle": "Koike bu sahifani topa olmadi.",
     "archiveSearchAction": "archive.org da qidirish",
     "sslErrorTitle": "Bu sahifa mabjud emas",
-    "sslErrorMessage": "Min bu sahifaga xavfsiz ulana olmadi.",
+    "sslErrorMessage": "Koike bu sahifaga xavfsiz ulana olmadi.",
     "dnsErrorTitle": "Sahifa topilmadi",
     "dnsErrorMessage": "DNS muammo yuz berdi",
     "offlineErrorTitle": "Siz oflaynsiz",
     "offlineErrorMessage": "Internetga qayta ulaning va yana urinib ko'ring.",
-    "genericConnectionFail": "Min sahifaga ulana olamadi.",
-    "sslTimeErrorMessage": "Min bu sahifaga xavfsiz ulana olmadi. Iltimos, kompyuter soati to'g'ri sozlanganiga ishonch hosil qiling.",
+    "genericConnectionFail": "Koike sahifaga ulana olamadi.",
+    "sslTimeErrorMessage": "Koike bu sahifaga xavfsiz ulana olmadi. Iltimos, kompyuter soati to'g'ri sozlanganiga ishonch hosil qiling.",
     "addressInvalidTitle": "Bu manzil yaroqsiz.",
     "genericError": "Muammo yuz berdi",
     /* pages/phishing/index.html */
@@ -125,7 +125,7 @@
     "phishingErrorVisitAnyway": "Baribir sahifaga kirish",
     "phishingErrorLeave": "Sahifani tark etish",
     /* multiple instances alert */
-    "multipleInstancesErrorMessage": "Muammo yuz berdi. Iltimos, barcha ochiq namunalarni yopib Minni qaytadan oching.",
+    "multipleInstancesErrorMessage": "Muammo yuz berdi. Iltimos, barcha ochiq namunalarni yopib Koikeni qaytadan oching.",
     /* pages/sessionRestoreError/index.html */
     "sessionRestoreErrorTitle": "Muammo yuz berdi",
     "sessionRestoreErrorExplanation": "Sizning saqlangan varaqlaringizni to'g'ri tiklab bo'lmadi",
@@ -263,7 +263,7 @@
     "downloadStateCompleted": "Yakunlangan",
     "downloadStateFailed": "Muvaffaqiyatsiz",
     /* Update Notifications */
-    "updateNotificationTitle": "Minning yangi versiyasi mavjud",
+    "updateNotificationTitle": "Koikening yangi versiyasi mavjud",
     /* Autofill settings */
     "settingsPasswordAutoFillHeadline": "Parolni avtomatik to'ldirish",
     "settingsSelectPasswordManager": "Parol menejerlardan birini tanlang:",
@@ -278,7 +278,7 @@
     "passwordManagerSetupDragBox": "Vositani bu yerga torting",
     "passwordManagerSetupInstalling": "O'rnatilmoqda...",
     "passwordManagerBitwardenSignIn": null, //missing translation
-    "passwordManagerSetupSignIn": "Avtomatik to'ldirishni ishlatish uchun parol menejeringiz tizimiga kiring. Sizning ma'lumotlaringiz Minni hech qanday joyida saqlanmaydi.",
+    "passwordManagerSetupSignIn": "Avtomatik to'ldirishni ishlatish uchun parol menejeringiz tizimiga kiring. Sizning ma'lumotlaringiz Koikeni hech qanday joyida saqlanmaydi.",
     "disableAutofill": "Avtomatik to'ldirishni o'chirish",
     "passwordManagerSetupUnlockError": "Parollar do'konini ochish muvaffaqiyatsiz bo'ldi: ",
     "passwordManagerSetupRetry": "To'g'ri fayl va parol kiritayotganingizga ishonch hosil qiling. Qayta urinib ko'rish uchun vositani bu yerga torting.",

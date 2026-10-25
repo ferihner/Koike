@@ -8,11 +8,19 @@ protocol.registerSchemesAsPrivileged([
       secure: true,
       supportFetchAPI: true,
     }
+  },
+  {
+    scheme: 'koike',
+    privileges: {
+      standard: true,
+      secure: true,
+      supportFetchAPI: true,
+    }
   }
 ])
 
 function registerBundleProtocol (ses) {
-  ses.protocol.handle('min', (req) => {
+  const handler = (req) => {
     let { host, pathname } = new URL(req.url)
 
     if (pathname.charAt(0) === '/') {
@@ -40,7 +48,9 @@ function registerBundleProtocol (ses) {
     }
 
     return net.fetch(pathToFileURL(pathToServe).toString())
-  })
+  }
+  ses.protocol.handle('min', handler)
+  ses.protocol.handle('koike', handler)
 }
 
 app.on('session-created', (ses) => {

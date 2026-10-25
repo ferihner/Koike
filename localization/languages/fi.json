@@ -107,16 +107,16 @@
     "crashErrorSubtitle": "Sivun näyttämisessä on tapahtunut virhe.",
     "errorPagePrimaryAction": "Yritä uudelleen",
     "serverNotFoundTitle": "Palvelinta ei löydy",
-    "serverNotFoundSubtitle": "Min ei löytänyt tätä sivua.",
+    "serverNotFoundSubtitle": "Koike ei löytänyt tätä sivua.",
     "archiveSearchAction": "Etsi sivustolta archive.org",
     "sslErrorTitle": "Sivusto ei ole saatavilla",
-    "sslErrorMessage": "Min ei voinut luoda suojattua yhteyttä sivustoon.",
+    "sslErrorMessage": "Koike ei voinut luoda suojattua yhteyttä sivustoon.",
     "dnsErrorTitle": "Sivustoa ei löydy",
     "dnsErrorMessage": "DNS-virhe.",
     "offlineErrorTitle": "Verkkoyhteyttä ei löydy",
     "offlineErrorMessage": "Yhdistä verkkoon ja yritä uudelleen.",
-    "genericConnectionFail": "Min ei voinut yhdistää sivustoon.",
-    "sslTimeErrorMessage": "Min ei voinut luoda suojattua yhteyttä sivustoon. Varmista, että tietokoneesi kello on oikeassa ajassa.",
+    "genericConnectionFail": "Koike ei voinut yhdistää sivustoon.",
+    "sslTimeErrorMessage": "Koike ei voinut luoda suojattua yhteyttä sivustoon. Varmista, että tietokoneesi kello on oikeassa ajassa.",
     "addressInvalidTitle": "Osoite on virheellinen.",
     "genericError": "Tapahtui virhe",
     /* pages/phishing/index.html */
@@ -125,7 +125,7 @@
     "phishingErrorVisitAnyway": "Vieraile sivustolla silti",
     "phishingErrorLeave": "Poistu sivustolta",
     /* multiple instances alert */
-    "multipleInstancesErrorMessage": "Virhe. Sulje muut käynnissä olevat ikkunat ja käynnistä Min uudelleen.",
+    "multipleInstancesErrorMessage": "Virhe. Sulje muut käynnissä olevat ikkunat ja käynnistä Koike uudelleen.",
     /* pages/sessionRestoreError/index.html */
     "sessionRestoreErrorTitle": "Tapahtui virhe",
     "sessionRestoreErrorExplanation": "Tallennettuja välilehtiä ei saatu palautettua.",
@@ -175,7 +175,7 @@
     "settingsUsageStatisticsToggle": {
       "unsafeHTML": "Lähetä käyttötilastoja (<a href=\"https://github.com/minbrowser/min/blob/master/docs/statistics.md\">Lisätiedot</a>)"
     },
-    "settingsStartupOptions": "Kun Min käynnistyy: ",
+    "settingsStartupOptions": "Kun Koike käynnistyy: ",
     "settingsStartupCreateTask": "Avaa uudelleen edelliset välilehdet",
     "settingsStartupNewTaskandBackground": "Siirrä edelliset välilehdet tehtävään taustalle",
     "settingsStartupNewTaskOnly": "Avaa tyhjä tehtävä",
@@ -265,7 +265,7 @@
     "downloadStateCompleted": "Valmis",
     "downloadStateFailed": "Epäonnistunut",
     /* Update Notifications */
-    "updateNotificationTitle": "Uusi versio Ministä saatavilla",
+    "updateNotificationTitle": "Uusi versio Koikeistä saatavilla",
     /* Autofill settings */
     "settingsPasswordAutoFillHeadline": "Salasanojen automaattinen täyttö",
     "settingsSelectPasswordManager": "Valitse yksi tuetuista salasanojen hallintasovelluksista:",
@@ -284,7 +284,7 @@
     "passwordManagerSetupDragBox": "Vedä työkalu tähän",
     "passwordManagerSetupInstalling": "Asennetaan...",
     "passwordManagerBitwardenSignIn": "Yhdistääksesi Bitwarden-tilisi, mene osoitteeseen vault.bitwarden.com/#/settings/account, vieritä alas asti ja valitse \"View API Key\". Liitä sitten arvot alla oleviin kenttiin.",
-    "passwordManagerSetupSignIn": "Kirjaudu salasananhallintaohjelmaasi automaattisen täytön käyttämiseksi. Tietojasi ei tallenneta Min-selaimen sisälle.",
+    "passwordManagerSetupSignIn": "Kirjaudu salasananhallintaohjelmaasi automaattisen täytön käyttämiseksi. Tietojasi ei tallenneta Koike-selaimen sisälle.",
     "disableAutofill": "Sammuta automaattinen täyttö",
     "passwordManagerSetupUnlockError": "Salasanasäilön avaaminen epäonnistui: ",
     "passwordManagerSetupRetry": "Tarkista, että käytät oikeaa tiedostoa ja salasanaa. Voit yrittää uudelleen vetämällä työkalun tähän uudestaan.",

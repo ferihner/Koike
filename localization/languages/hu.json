@@ -125,7 +125,7 @@
     "phishingErrorVisitAnyway": "Megtekintés és oldal betöltése",
     "phishingErrorLeave": "Hadja el az oldalt",
     /* multiple instances alert */
-    "multipleInstancesErrorMessage": "Hiba lépett fel, kérlek zárd be az összes böngészőt ablakot, és indítsd újra a Min böngészőt",
+    "multipleInstancesErrorMessage": "Hiba lépett fel, kérlek zárd be az összes böngészőt ablakot, és indítsd újra a Koike böngészőt",
     /* pages/sessionRestoreError/index.html */
     "sessionRestoreErrorTitle": "Egy hiba lépett fel",
     "sessionRestoreErrorExplanation": "A mentett fület nem sikerült helyreállítani.",

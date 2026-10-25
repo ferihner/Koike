@@ -125,7 +125,7 @@
     "phishingErrorVisitAnyway": "Visitar site mesmo assim",
     "phishingErrorLeave": "Sair deste site",
     /* multiple instances alert */
-    "multipleInstancesErrorMessage": "Um erro foi detectado, por favor, feche todas as instâncias abertas e reinicie o Min",
+    "multipleInstancesErrorMessage": "Um erro foi detectado, por favor, feche todas as instâncias abertas e reinicie o Koike",
     /* pages/sessionRestoreError/index.html */
     "sessionRestoreErrorTitle": "Ocorreu um erro",
     "sessionRestoreErrorExplanation": "Suas abas salvas não puderam ser restauradas corretamente.",
@@ -175,7 +175,7 @@
     "settingsUsageStatisticsToggle": {
       "unsafeHTML": "Enviar estatísticas de uso (<a href=\"https://github.com/minbrowser/min/blob/master/docs/statistics.md\">Mais informações</a>)"
     },
-    "settingsStartupOptions": "Ao iniciar o Min:",
+    "settingsStartupOptions": "Ao iniciar o Koike:",
     "settingsStartupCreateTask": "Reabrir abas anteriores",
     "settingsStartupNewTaskandBackground": "Mover abas anteriores para uma tarefa em segundo plano",
     "settingsStartupNewTaskOnly": "Iniciar uma nova tarefa",
@@ -265,7 +265,7 @@
     "downloadStateCompleted": "Concluído",
     "downloadStateFailed": "Falhou",
     /* Update Notifications */
-    "updateNotificationTitle": "Uma nova versão do Min está disponível",
+    "updateNotificationTitle": "Uma nova versão do Koike está disponível",
     /* Autofill settings */
     "settingsPasswordAutoFillHeadline": "Preenchimento automático de senhas",
     "settingsSelectPasswordManager": "Escolha um gerenciadoror de senhas suportado:",
@@ -284,7 +284,7 @@
     "passwordManagerSetupDragBox": "Arraste a ferramenta aqui",
     "passwordManagerSetupInstalling": "Instalando ...",
     "passwordManagerBitwardenSignIn": "Para conectar com sua conta do Bitwarden, acesse vault.bitwarden.com/#/settings/account, vá na parte inferior da página, clique em \"View API Key\". E cole os valores nos campos abaixo.",
-    "passwordManagerSetupSignIn": "Entre no seu gerenciador de senhas para começar a usar o preenchimento automático. Suas credenciais não serão armazenadas em nenhum lugar do Min.",
+    "passwordManagerSetupSignIn": "Entre no seu gerenciador de senhas para começar a usar o preenchimento automático. Suas credenciais não serão armazenadas em nenhum lugar do Koike.",
     "disableAutofill": "Desativar preenchimento automático",
     "passwordManagerSetupUnlockError": "Falha ao desbloquear o armazenamento de senhas:",
     "passwordManagerSetupRetry": "Verifique se você está usando o arquivo certo e digitando a senha correta. Você pode tentar novamente arrastando a ferramenta aqui.",

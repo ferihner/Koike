@@ -125,7 +125,7 @@
       "phishingErrorVisitAnyway": "Επίσκεψη ιστοσελίδας παρ' όλα αυτά",
       "phishingErrorLeave": "Αποχώριση απο την ιστοσελίδα",
       /* multiple instances alert */
-      "multipleInstancesErrorMessage": "Παρουσιάστηκε σφάλμα. Κλείστε τυχόν άλλα ανοιχτά παράθυρα και επανεκκινήστε το Min.",
+      "multipleInstancesErrorMessage": "Παρουσιάστηκε σφάλμα. Κλείστε τυχόν άλλα ανοιχτά παράθυρα και επανεκκινήστε το Koike.",
       /* pages/sessionRestoreError/index.html */
       "sessionRestoreErrorTitle": "Παρουσιάστηκε σφάλμα",
       "sessionRestoreErrorExplanation": "Δεν ήταν δυνατή η σωστή επαναφορά των αποθηκευμένων καρτελών.",
@@ -265,7 +265,7 @@
       "downloadStateCompleted": "Ολοκληρώθηκε",
       "downloadStateFailed": "Απέτυχε",
       /* Update Notifications */
-      "updateNotificationTitle": "Μια καινούργια έκδοση του Min είναι διαθέσιμη",
+      "updateNotificationTitle": "Μια καινούργια έκδοση του Koike είναι διαθέσιμη",
       /* Autofill settings */
       "settingsPasswordAutoFillHeadline": "Αυτόματη συμπλήρωση κωδικού πρόσβασης",
       "settingsSelectPasswordManager": "Επίλέξτε έναν απο τους υποστηριζόμενους διαχειριστές κωδικών πρόσβασης:",
@@ -284,7 +284,7 @@
       "passwordManagerSetupDragBox": "Σείρετε το εργαλείο εδώ",
       "passwordManagerSetupInstalling": "Εγκατάσταση...",
       "passwordManagerBitwardenSignIn": "Για να συνδεθείτε στο λογαριασμο Bitwarden, επισκεφτείτε το vault.bitwarden.com/#/settings/account, πηγένετε στο τέλος της σελίδας, και επιλέξτε \"View API Key\". Στην συνέχεια επικολλήστε τις τιμές στα παρακάτω πεδία.",
-      "passwordManagerSetupSignIn": "Συνδεθείτε στον διαχειριστή κωδικών πρόσβασης για να ξεκινήσετε να χρησιμοποιείτε την αυτόματη συμπλήρωση. Τα διαπιστευτήριά σας δεν θα αποθηκευτούν πουθενά μέσα στο Min.",
+      "passwordManagerSetupSignIn": "Συνδεθείτε στον διαχειριστή κωδικών πρόσβασης για να ξεκινήσετε να χρησιμοποιείτε την αυτόματη συμπλήρωση. Τα διαπιστευτήριά σας δεν θα αποθηκευτούν πουθενά μέσα στο Koike.",
       "disableAutofill": "Απενεργοποίηση αυτόματης συμπλήρωσης",
       "passwordManagerSetupUnlockError": "Αποτυχία ξεκλειδώματος του χώρου αποθήκευσης κωδικών πρόσβασης:",
       "passwordManagerSetupRetry": "Επιβεβαιώστε ότι χρησιμοποιείτε το σωστό αρχείο και ότι εισάγετε το σωστό κωδικό πρόσβασης. Μπορείτε να ξαναδοκιμάσετε σέρνοντας το εργαλείο ξανά εδώ.",

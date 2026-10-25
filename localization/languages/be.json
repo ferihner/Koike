@@ -107,16 +107,16 @@
       "crashErrorSubtitle": "Пры адлюстраванні гэтай старонкі паўстала праблема.",
       "errorPagePrimaryAction": "Паспрабаваць зноў",
       "serverNotFoundTitle": "Сервер не знойдзены",
-      "serverNotFoundSubtitle": "Min не змог знайсці гэты сайт.",
+      "serverNotFoundSubtitle": "Koike не змог знайсці гэты сайт.",
       "archiveSearchAction": "Шукаць на archive.org",
       "sslErrorTitle": "Сайт недаступны",
-      "sslErrorMessage": "Min не змог бяспечна злучыцца з гэтым сайтам.",
+      "sslErrorMessage": "Koike не змог бяспечна злучыцца з гэтым сайтам.",
       "dnsErrorTitle": "Сайт не знойдзены",
       "dnsErrorMessage": "Адбылася памылка DNS.",
       "offlineErrorTitle": "Адсутнічае злучэнне з Інтэрнэтам",
       "offlineErrorMessage": "Адновіце інтэрнэт злучэнне і паспрабуйце зноў.",
-      "genericConnectionFail": "Min не змог злучыцца з гэтым сайтам.",
-      "sslTimeErrorMessage": "Min не змог бяспечна злучыцца з гэтым сайтам. Пераканайцеся, што вашы сістэмныя гадзіны настроены правільна.",
+      "genericConnectionFail": "Koike не змог злучыцца з гэтым сайтам.",
+      "sslTimeErrorMessage": "Koike не змог бяспечна злучыцца з гэтым сайтам. Пераканайцеся, што вашы сістэмныя гадзіны настроены правільна.",
       "addressInvalidTitle": "Некарэктны адрас.",
       "genericError": "Адбылася памылка",
       /* pages/phishing/index.html */
@@ -125,7 +125,7 @@
       "phishingErrorVisitAnyway": "Усё роўна наведаць сайт",
       "phishingErrorLeave": "Сысці з сайта",
       /* multiple instances alert */
-      "multipleInstancesErrorMessage": "Адбылася памылка. Калі ласка, зачыніце ўсе іншыя адкрытыя асобнікі і перазапусціце Min.",
+      "multipleInstancesErrorMessage": "Адбылася памылка. Калі ласка, зачыніце ўсе іншыя адкрытыя асобнікі і перазапусціце Koike.",
       /* pages/sessionRestoreError/index.html */
       "sessionRestoreErrorTitle": "Адбылася памылка",
       "sessionRestoreErrorExplanation": "Вашы захаваныя ўкладкі не могуць быць карэктна адноўлены.",
@@ -265,7 +265,7 @@
       "downloadStateCompleted": "Завершана",
       "downloadStateFailed": "Не атрымалася",
       /* Update Notifications */
-      "updateNotificationTitle": "Даступная новая версія Min",
+      "updateNotificationTitle": "Даступная новая версія Koike",
       /* Autofill settings */
       "settingsPasswordAutoFillHeadline": "Аўтазапаўненне пароля",
       "settingsSelectPasswordManager": "Выбераце адзін з падтрымоўваных мэнэджараў пароляў:",
@@ -284,7 +284,7 @@
       "passwordManagerSetupDragBox": "Перацягніце інструмент сюды",
       "passwordManagerSetupInstalling": "Устаноўка...",
       "passwordManagerBitwardenSignIn": "Каб падключыць свой уліковы запіс Bitwarden, перайдзіце на старонку vault.bitwarden.com/#/settings/account, пракруціць ўніз і выберыце \"View API Key\". Затым устаўце значэння ў палі ніжэй.",
-      "passwordManagerSetupSignIn": "Ўвайдзіце ў свой мэнэджэр пароляў, каб пачаць выкарыстоўваць аўтазапаўненне. Вашы ўліковыя дадзеныя не будуць захоўвацца дзе-небудзь ўнутры Min.",
+      "passwordManagerSetupSignIn": "Ўвайдзіце ў свой мэнэджэр пароляў, каб пачаць выкарыстоўваць аўтазапаўненне. Вашы ўліковыя дадзеныя не будуць захоўвацца дзе-небудзь ўнутры Koike.",
       "disableAutofill": "Адключыць аўтазапаўненне",
       "passwordManagerSetupUnlockError": "Немагчыма разблакаваць сховішча пароляў: ",
       "passwordManagerSetupRetry": "Пераканайцеся, што вы выкарыстоўваеце правільны файл і ўводзіце правільны пароль. Вы можаце паўтарыць спробу, перацягнуўшы інструмент сюды яшчэ раз.",
